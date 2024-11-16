@@ -5,6 +5,10 @@ export const navItems = [
   { name: "Contact", link: "#contact" },
 ];
 
+
+
+
+
 export const gridItems = [
   {
     id: 1,
